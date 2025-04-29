@@ -14,7 +14,26 @@
 - **Nombre:** Emiliano
 - **Apellido:** Massolin
 - **Legajo:** 63059
+## 🛠️ Instalación y uso
 
+1. **Clonar el repositorio**
+
+```bash
+git clone git@github.com:um-programacion-ii/programacion-2-trabajo-practico-3-emilianomassolin.git
+cd sistema-biblioteca
+```
+
+2. **Compilar el proyecto**
+
+```bash
+mvn clean compile
+```
+
+3. **Ejecutar las pruebas**
+
+```bash
+mvn test
+```
 ## Importante
 - La rama `main` está protegida y no se pueden hacer commits directos sobre ella
 - Todo el trabajo debe realizarse en ramas feature siguiendo el patrón `feature/issue-numero-descripcion`
